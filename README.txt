@@ -4,8 +4,6 @@ This ZIP file contains the exported HTML content from your Hatch canvas.
 
 ## What's Inside:
 - index.html: Your main HTML file. Open this to view your project.
-- assets/: Your images and media files (1 image included)
-  - assets/eTdTdFPqUs5ksYJ4UPsWj.png
 
 
 ## How to Use It:
@@ -15,4 +13,4 @@ This ZIP file contains the exported HTML content from your Hatch canvas.
 ## Sharing your Work
 Share the entire contents of the ZIP file including the assets folder and its content to preserve images and formatting. Sharing just the index.html file will break the connection to your images.
 
-Generated on: 11.08.2025, 21:18:29
+Generated on: 11.08.2025, 21:24:43
